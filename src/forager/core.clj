@@ -1,3 +1,4 @@
+;; Forked, will check later
 (ns forager.core
   (:require [clojure.java.io :as io]
             [clojure.string  :as string]
